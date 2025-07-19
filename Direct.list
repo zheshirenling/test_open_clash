@@ -342,6 +342,10 @@ DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
 
+# NAS Direct
+SRC-IP-CIDR,192.168.50.206/32,no-resolve
+SRC-IP-CIDR,192.168.50.207/32,no-resolve
+
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
