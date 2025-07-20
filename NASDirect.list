@@ -1,0 +1,4 @@
+# NAS Direct
+SRC-IP-CIDR,192.168.50.206/32,no-resolve
+SRC-IP-CIDR,192.168.50.207/32,no-resolve
+
