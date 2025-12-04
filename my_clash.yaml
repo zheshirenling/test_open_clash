@@ -8,17 +8,12 @@ proxy-groups:
   # --- 基础节点筛选组 (通过正则筛选订阅中的节点) ---
   - name: "🐸 手动切换"
     type: select
-    proxies: []
-    use: []
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    # 匹配所有节点
+    include-all: true
     filter: ".*"
 
   - name: "🇭🇰 香港节点"
     type: select
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
+    include-all: true
     filter: "(?=.*(香港|HK|HKT|Hong Kong|🇭🇰|HongKong))"
 
   - name: "🇯🇵 日本节点"
