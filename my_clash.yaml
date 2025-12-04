@@ -527,7 +527,7 @@ rules:
   - RULE-SET,LocalAreaNetwork,🎯 全球直连
   - RULE-SET,UnBan,🎯 全球直连
   - RULE-SET,BanEasyPrivacy,🛡️ 隐私防护
-  - RULE-SET,FCM,📢 FCM
+  - RULE-SET,GoogleFCM,📢 FCM
   - RULE-SET,GoogleCN,🎯 全球直连
   - RULE-SET,SteamCN,🎯 全球直连
   - RULE-SET,GitHub,👨🏿‍💻 GitHub
