@@ -339,168 +339,168 @@ rule-providers:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/zheshirenling/test_open_clash/refs/heads/main/Direct.list"
-    path: ./rules/Direct.yaml
+    format: text
     interval: 86400
 
   ProxyLite:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/zheshirenling/test_open_clash/refs/heads/main/ProxyLite.list"
-    path: ./rules/ProxyLite.yaml
+    format: text
     interval: 86400
 
   EmbyDirect:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/zheshirenling/test_open_clash/refs/heads/main/EmbyDirect.list"
-    path: ./rules/EmbyDirect.yaml
+    format: text
     interval: 86400
 
   AI:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/zheshirenling/test_open_clash/refs/heads/main/AI.list"
-    path: ./rules/AI.yaml
+    format: text
     interval: 86400
 
   DisneyPlus:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list"
-    path: ./rules/DisneyPlus.yaml
+    format: text
     interval: 86400
 
   AppleTV:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AppleTV.list"
-    path: ./rules/AppleTV.yaml
+    format: text
     interval: 86400
 
   LocalAreaNetwork:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
-    path: ./rules/LocalAreaNetwork.yaml
+    format: text
     interval: 86400
 
   UnBan:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list"
-    path: ./rules/UnBan.yaml
+    format: text
     interval: 86400
 
   BanEasyPrivacy:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list"
-    path: ./rules/BanEasyPrivacy.yaml
+    format: text
     interval: 86400
 
   GoogleFCM:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleFCM/GoogleFCM.list"
-    path: ./rules/GoogleFCM.yaml
+    format: text
     interval: 86400
 
   GoogleCN:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list"
-    path: ./rules/GoogleCN.yaml
+    format: text
     interval: 86400
 
   SteamCN:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"
-    path: ./rules/SteamCN.yaml
+    format: text
     interval: 86400
 
   GitHub:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list"
-    path: ./rules/GitHub.yaml
+    format: text
     interval: 86400
 
   Google:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list"
-    path: ./rules/Google.yaml
+    format: text
     interval: 86400
 
   Copilot:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list"
-    path: ./rules/Copilot.yaml
+    format: text
     interval: 86400
 
   Apple:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list"
-    path: ./rules/Apple.yaml
+    format: text
     interval: 86400
 
   Telegram:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list"
-    path: ./rules/Telegram.yaml
+    format: text
     interval: 86400
 
   Speedtest:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list"
-    path: ./rules/Speedtest.yaml
+    format: text
     interval: 86400
 
   YouTube:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
-    path: ./rules/YouTube.yaml
+    format: text
     interval: 86400
 
   Netflix:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
-    path: ./rules/Netflix.yaml
+    format: text
     interval: 86400
 
   TikTok:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list"
-    path: ./rules/TikTok.yaml
+    format: text
     interval: 86400
 
   ProxyMedia:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
-    path: ./rules/ProxyMedia.yaml
+    format: text
     interval: 86400
 
   ProxyGFWlist:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
-    path: ./rules/ProxyGFWlist.yaml
+    format: text
     interval: 86400
 
   Download:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list"
-    path: ./rules/Download.yaml
+    format: text
     interval: 86400
 
 # ---------------------------------------------------
